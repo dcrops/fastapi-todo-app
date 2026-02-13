@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local scratch files
+books.py
+books2.py
+
+# Learning folder
+python-git-basics/
+
+# SQLite DB files (if you don't want them committed)
+*.db
+
+# Virtual environments
+.venv/
+env/
+venv/
